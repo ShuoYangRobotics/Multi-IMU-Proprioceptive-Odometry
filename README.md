@@ -10,6 +10,6 @@ The only dependency is the Casadi library (V3.5.5). It can be downloaded from Ca
 
 ## Usage
 
-Download dataset from Google drive folder
+Download dataset from [Google drive folder](https://drive.google.com/drive/folders/174qgyZykdeqs4t8N7NnVp_i18W1NxHYY?usp=sharing).
 
 In the script `scripts/RUN_MAIN.m`, set variable `file_path` to the path of the dataset rosbag file. Then run the script.
