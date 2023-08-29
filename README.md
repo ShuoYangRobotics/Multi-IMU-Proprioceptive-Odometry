@@ -2,7 +2,7 @@
 
 This repo includes an example code of the multi-IMU proprioceptive odometry algorithm described in the paper:
 
-Multi-IMU Proprioceptive Odometry For Legged Robots
+[Multi-IMU Proprioceptive Odometry For Legged Robots (accepted to IROS2023)](https://roboticexplorationlab.org/papers/foot_imu_iros2023.pdf)
 
 ## Installation
 
